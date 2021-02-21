@@ -1,7 +1,8 @@
 sudo: false
-language: java
+language: node_js
+node_js:
+- 10
 before_deploy:
-  # Set up git user name and tag this commit
   - git config --local user.name "$GIT_USER_NAME"
   - git config --local user.email "$GIT_USER_EMAIL"
   - export TRAVIS_TAG=${TRAVIS_TAG:-$(date +'%Y%m%d%H%M%S')-$(git log --format=%h -1)}
