@@ -7,16 +7,19 @@ branches:
 #  only:
 #  - src
 script:
-#- hexo generate
+
+before_deploy:
+  # Set up git user name and tag this commit
+  - git config --local user.name "$GIT_USER_NAME"
+  - git config --local user.email "$GIT_USER_EMAIL"
+  - export TRAVIS_TAG=${TRAVIS_TAG:-$(date +'%Y%m%d%H%M%S')-$(git log --format=%h -1)}
+  - git tag $TRAVIS_TAG
 deploy:
   provider: releases
-  skip-cleanup: true
-  github-token: "$GITHUB_TOKEN"
-  keep-history: true
-  target-brach: master
-  on:
-    branch: src
-  local-dir: public
+  api_key: $GITHUB_TOKEN
+  file: "FILE TO UPLOAD"
+  skip_cleanup: true
+
 notifications:
   email:
   - biaogejiushibiao@qq.com
