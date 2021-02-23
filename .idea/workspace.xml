@@ -111,7 +111,7 @@
       <workItem from="1613907679847" duration="11612000" />
       <workItem from="1614066362452" duration="4106000" />
       <workItem from="1614087706369" duration="1218000" />
-      <workItem from="1614091187635" duration="2798000" />
+      <workItem from="1614091187635" duration="3053000" />
     </task>
     <task id="LOCAL-00001" summary="添加博客模块">
       <created>1613908071318</created>
@@ -190,11 +190,18 @@
       <option name="project" value="LOCAL" />
       <updated>1614094042560</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="添加音乐-4">
+      <created>1614094659899</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1614094659899</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21212000" />
+    <option name="totallyTimeSpent" value="21467000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
@@ -241,7 +248,8 @@
     <MESSAGE value="添加音乐-1" />
     <MESSAGE value="添加音乐-2" />
     <MESSAGE value="添加音乐-3" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加音乐-3" />
+    <MESSAGE value="添加音乐-4" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加音乐-4" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/resource/img/2st-nf.png">
