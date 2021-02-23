@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10c256fe-7364-4b70-86fa-16692f5d0e48" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/resource/music/周杰伦 - 对不起 (统一茶饮料 广告曲).mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/music/周杰伦 - 彩虹 (《命运呼叫转移》电影插曲).mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/music/周杰伦 - 手写的从前 (优酸乳为爱告白 广告曲).mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/music/周杰伦 - 断了的弦 (《寻找周杰伦》电影插曲).mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/music/周杰伦 - 献世 (Live).mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/music/周杰伦 - 英雄(1).mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/music/周杰伦 - 菊花台 (《满城尽带黄金甲》电影片尾曲).mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/music/周杰伦 - 轨迹 (《寻找周杰伦》电影主题曲).mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/music/周杰伦 - 霍元甲 (《霍元甲》电影主题曲).mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/music/派伟俊 - Try (《功夫熊猫3》电影全球主题曲).mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/music/等 你 下课.flac" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +15,7 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -51,7 +41,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -74,6 +63,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -122,6 +112,7 @@
       <workItem from="1613051945977" duration="1478000" />
       <workItem from="1613907679847" duration="11612000" />
       <workItem from="1614066362452" duration="4106000" />
+      <workItem from="1614087706369" duration="1218000" />
     </task>
     <task id="LOCAL-00001" summary="添加博客模块">
       <created>1613908071318</created>
@@ -179,16 +170,23 @@
       <option name="project" value="LOCAL" />
       <updated>1614087028069</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="添加音乐-1">
+      <created>1614087725966</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1614087725966</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17196000" />
+    <option name="totallyTimeSpent" value="18414000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24934107" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24934107" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -206,7 +204,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32937366" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32937366" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
