@@ -111,7 +111,7 @@
       <workItem from="1613907679847" duration="11612000" />
       <workItem from="1614066362452" duration="4106000" />
       <workItem from="1614087706369" duration="1218000" />
-      <workItem from="1614091187635" duration="1651000" />
+      <workItem from="1614091187635" duration="2294000" />
     </task>
     <task id="LOCAL-00001" summary="添加博客模块">
       <created>1613908071318</created>
@@ -176,16 +176,23 @@
       <option name="project" value="LOCAL" />
       <updated>1614087725966</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="添加音乐-2">
+      <created>1614093375337</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1614093375337</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20065000" />
+    <option name="totallyTimeSpent" value="20708000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24934107" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24934107" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -203,7 +210,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49973643" visible="true" weight="0.32937366" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="11" sideWeight="0.5002636" side_tool="true" visible="true" weight="0.32937366" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5002636" side_tool="true" visible="true" weight="0.32937366" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -225,7 +232,8 @@
     <MESSAGE value="修改目录结构" />
     <MESSAGE value="添加音乐" />
     <MESSAGE value="添加音乐-1" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加音乐-1" />
+    <MESSAGE value="添加音乐-2" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加音乐-2" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/resource/img/2st-nf.png">
