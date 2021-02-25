@@ -2,19 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10c256fe-7364-4b70-86fa-16692f5d0e48" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resource/img/image-20200704183048061.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/img/image-20200704183436495.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/img/image-20200704210429535.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/img/image-20200705080911284.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/img/image-20200705081813409.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/img/image-20200705081913538.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/img/image-20200705082255746.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/img/image-20200705082601441.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/img/image-20210224232545014.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/img/image-20210224234633992.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/img/image-20210224234734657.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/img/image-20210224235108632.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/img/tva1.sinaimg.cn&amp;app=2002&amp;size=f9999,10000&amp;q=a80&amp;n=0&amp;g=0n&amp;fmt=jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,10 +28,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="364" />
-    <option name="y" value="228" />
-    <option name="width" value="1117" />
-    <option name="height" value="789" />
+    <option name="y" value="25" />
+    <option name="width" value="960" />
+    <option name="height" value="1055" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -54,6 +40,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -61,11 +48,15 @@
               <item name="jsDeliver" type="b2602c69:ProjectViewProjectNode" />
               <item name="jsDeliver" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="jsDeliver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsDeliver" type="462c0819:PsiDirectoryNode" />
+              <item name="resource" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -116,7 +107,8 @@
       <workItem from="1614066362452" duration="4106000" />
       <workItem from="1614087706369" duration="1218000" />
       <workItem from="1614091187635" duration="5698000" />
-      <workItem from="1614141698500" duration="932000" />
+      <workItem from="1614141698500" duration="1205000" />
+      <workItem from="1614220402987" duration="1810000" />
     </task>
     <task id="LOCAL-00001" summary="添加博客模块">
       <created>1613908071318</created>
@@ -230,11 +222,18 @@
       <option name="project" value="LOCAL" />
       <updated>1614141715968</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="add link images">
+      <created>1614182265589</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1614182265589</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25044000" />
+    <option name="totallyTimeSpent" value="27127000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
@@ -256,8 +255,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49920928" visible="true" weight="0.32937366" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007907" side_tool="true" visible="true" weight="0.32937366" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49868214" visible="true" weight="0.32937366" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50131786" side_tool="true" visible="true" weight="0.32937366" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
