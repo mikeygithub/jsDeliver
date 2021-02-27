@@ -26,10 +26,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1243" />
-    <option name="y" value="451" />
-    <option name="width" value="677" />
-    <option name="height" value="629" />
+    <option name="x" value="150" />
+    <option name="y" value="25" />
+    <option name="width" value="1770" />
+    <option name="height" value="1055" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -111,6 +111,7 @@
       <workItem from="1614304153737" duration="4626000" />
       <workItem from="1614328671934" duration="1275000" />
       <workItem from="1614349586294" duration="744000" />
+      <workItem from="1614396729761" duration="1849000" />
     </task>
     <task id="LOCAL-00001" summary="添加博客模块">
       <created>1613908071318</created>
@@ -259,16 +260,24 @@
       <option name="project" value="LOCAL" />
       <updated>1614356174820</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="python">
+      <created>1614396749865</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1614396749865</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35421000" />
+    <option name="totallyTimeSpent" value="37270000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.7227201" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34317344" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -285,7 +294,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4949921" visible="true" weight="0.60907125" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4949921" visible="true" weight="0.40064794" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5050079" side_tool="true" weight="0.33045357" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -318,7 +327,8 @@
     <MESSAGE value="add link jvm images" />
     <MESSAGE value="add link os" />
     <MESSAGE value="linux" />
-    <option name="LAST_COMMIT_MESSAGE" value="linux" />
+    <MESSAGE value="python" />
+    <option name="LAST_COMMIT_MESSAGE" value="python" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/resource/img/2st-nf.png">
