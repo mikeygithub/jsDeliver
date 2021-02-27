@@ -110,7 +110,7 @@
       <workItem from="1614220402987" duration="3459000" />
       <workItem from="1614304153737" duration="4626000" />
       <workItem from="1614328671934" duration="1275000" />
-      <workItem from="1614349586294" duration="699000" />
+      <workItem from="1614349586294" duration="744000" />
     </task>
     <task id="LOCAL-00001" summary="添加博客模块">
       <created>1613908071318</created>
@@ -252,17 +252,23 @@
       <option name="project" value="LOCAL" />
       <updated>1614328511297</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="linux">
+      <created>1614356174820</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1614356174820</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35376000" />
+    <option name="totallyTimeSpent" value="35421000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1920" height="1055" extended-state="7" />
-    <editor active="true" />
+    <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.7227201" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.7227201" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -279,7 +285,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.4949921" visible="true" weight="0.60907125" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4949921" visible="true" weight="0.60907125" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5050079" side_tool="true" weight="0.33045357" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -311,7 +317,8 @@
     <MESSAGE value="add link images" />
     <MESSAGE value="add link jvm images" />
     <MESSAGE value="add link os" />
-    <option name="LAST_COMMIT_MESSAGE" value="add link os" />
+    <MESSAGE value="linux" />
+    <option name="LAST_COMMIT_MESSAGE" value="linux" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/resource/img/2st-nf.png">
