@@ -25,10 +25,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="30" />
     <option name="y" value="66" />
-    <option name="width" value="1760" />
+    <option name="width" value="1750" />
     <option name="height" value="789" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -50,12 +50,6 @@
               <item name="jsDeliver" type="b2602c69:ProjectViewProjectNode" />
               <item name="jsDeliver" type="462c0819:PsiDirectoryNode" />
               <item name="resource" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jsDeliver" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jsDeliver" type="462c0819:PsiDirectoryNode" />
-              <item name="resource" type="462c0819:PsiDirectoryNode" />
-              <item name="photo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -122,7 +116,7 @@
       <workItem from="1614618302377" duration="390000" />
       <workItem from="1614689467538" duration="624000" />
       <workItem from="1614743166425" duration="1219000" />
-      <workItem from="1614769403766" duration="1878000" />
+      <workItem from="1614769403766" duration="2587000" />
     </task>
     <task id="LOCAL-00001" summary="添加博客模块">
       <created>1613908071318</created>
@@ -327,17 +321,24 @@
       <option name="project" value="LOCAL" />
       <updated>1614769424251</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="photo">
+      <created>1614775035582</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1614775035582</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47757000" />
+    <option name="totallyTimeSpent" value="48466000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1920" height="1055" extended-state="7" />
+    <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34317344" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34317344" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -354,8 +355,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49446493" visible="true" weight="0.40064794" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50553507" side_tool="true" weight="0.40064794" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4939378" visible="true" weight="0.40064794" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="11" sideWeight="0.5060622" side_tool="true" visible="true" weight="0.40064794" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
