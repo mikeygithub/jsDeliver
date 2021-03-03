@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10c256fe-7364-4b70-86fa-16692f5d0e48" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/resource/photo/1595287650937.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,10 +28,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="150" />
-    <option name="y" value="25" />
-    <option name="width" value="1770" />
-    <option name="height" value="1055" />
+    <option name="x" value="30" />
+    <option name="y" value="66" />
+    <option name="width" value="1760" />
+    <option name="height" value="789" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -52,12 +52,6 @@
               <item name="jsDeliver" type="b2602c69:ProjectViewProjectNode" />
               <item name="jsDeliver" type="462c0819:PsiDirectoryNode" />
               <item name="resource" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jsDeliver" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jsDeliver" type="462c0819:PsiDirectoryNode" />
-              <item name="resource" type="462c0819:PsiDirectoryNode" />
-              <item name="photo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -123,6 +117,7 @@
       <workItem from="1614481668064" duration="3488000" />
       <workItem from="1614618302377" duration="390000" />
       <workItem from="1614689467538" duration="624000" />
+      <workItem from="1614743166425" duration="1219000" />
     </task>
     <task id="LOCAL-00001" summary="添加博客模块">
       <created>1613908071318</created>
@@ -324,7 +319,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44660000" />
+    <option name="totallyTimeSpent" value="45879000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
