@@ -51,6 +51,12 @@
               <item name="jsDeliver" type="462c0819:PsiDirectoryNode" />
               <item name="resource" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="jsDeliver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsDeliver" type="462c0819:PsiDirectoryNode" />
+              <item name="resource" type="462c0819:PsiDirectoryNode" />
+              <item name="photo" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -118,6 +124,7 @@
       <workItem from="1614743166425" duration="1219000" />
       <workItem from="1614769403766" duration="2587000" />
       <workItem from="1614792617282" duration="33000" />
+      <workItem from="1615021526578" duration="709000" />
     </task>
     <task id="LOCAL-00001" summary="添加博客模块">
       <created>1613908071318</created>
@@ -336,16 +343,23 @@
       <option name="project" value="LOCAL" />
       <updated>1614792634665</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="k8s">
+      <created>1615021627994</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1615021627994</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48499000" />
+    <option name="totallyTimeSpent" value="49208000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="30" y="66" width="1750" height="789" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37695426" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.37695426" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -362,8 +376,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49334106" visible="true" weight="0.5621212" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.506659" side_tool="true" visible="true" weight="0.5621212" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49276203" visible="true" weight="0.56363636" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="11" sideWeight="0.507238" side_tool="true" visible="true" weight="0.56363636" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -397,10 +411,10 @@
     <MESSAGE value="linux" />
     <MESSAGE value="python" />
     <MESSAGE value="code" />
-    <MESSAGE value="k8s" />
     <MESSAGE value="photo" />
     <MESSAGE value="netty" />
-    <option name="LAST_COMMIT_MESSAGE" value="netty" />
+    <MESSAGE value="k8s" />
+    <option name="LAST_COMMIT_MESSAGE" value="k8s" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/resource/img/2st-nf.png">
