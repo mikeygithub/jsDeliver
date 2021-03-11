@@ -27,7 +27,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="30" />
     <option name="y" value="66" />
     <option name="width" value="1750" />
@@ -41,6 +41,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -57,7 +58,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -123,7 +123,8 @@
       <workItem from="1615021526578" duration="786000" />
       <workItem from="1615116530173" duration="892000" />
       <workItem from="1615118881058" duration="13000" />
-      <workItem from="1615183445107" duration="599000" />
+      <workItem from="1615183445107" duration="626000" />
+      <workItem from="1615184839722" duration="17000" />
     </task>
     <task id="LOCAL-00001" summary="添加博客模块">
       <created>1613908071318</created>
@@ -363,11 +364,18 @@
       <option name="project" value="LOCAL" />
       <updated>1615116551817</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="anno">
+      <created>1615184793320</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1615184793320</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50789000" />
+    <option name="totallyTimeSpent" value="50833000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="30" y="66" width="1750" height="789" extended-state="0" />
@@ -428,7 +436,8 @@
     <MESSAGE value="netty" />
     <MESSAGE value="k8s" />
     <MESSAGE value="helm" />
-    <option name="LAST_COMMIT_MESSAGE" value="helm" />
+    <MESSAGE value="anno" />
+    <option name="LAST_COMMIT_MESSAGE" value="anno" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/resource/img/2st-nf.png">
