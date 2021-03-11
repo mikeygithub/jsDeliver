@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10c256fe-7364-4b70-86fa-16692f5d0e48" name="Default Changelist" comment="" />
+    <list default="true" id="10c256fe-7364-4b70-86fa-16692f5d0e48" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resource/photo/IMG_20201208_165131.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resource/photo/IMG_20201208_165131.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resource/photo/MTXX_20170505_224028.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resource/photo/MTXX_20170505_224028.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resource/photo/QQ图片20210303184213.png" beforeDir="false" afterPath="$PROJECT_DIR$/resource/photo/QQ图片20210303184213.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resource/photo/WeChat Image_20210311235438.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resource/photo/WeChat Image_20210311235438.jpg" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +146,7 @@
       <workItem from="1615118881058" duration="13000" />
       <workItem from="1615183445107" duration="626000" />
       <workItem from="1615184839722" duration="17000" />
-      <workItem from="1615477459148" duration="724000" />
+      <workItem from="1615477459148" duration="1982000" />
     </task>
     <task id="LOCAL-00001" summary="添加博客模块">
       <created>1613908071318</created>
@@ -394,14 +400,22 @@
       <option name="project" value="LOCAL" />
       <updated>1615477517738</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="hangzhou">
+      <created>1615478578282</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1615478578282</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51557000" />
+    <option name="totallyTimeSpent" value="52815000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34317344" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -410,6 +424,7 @@
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -460,7 +475,8 @@
     <MESSAGE value="k8s" />
     <MESSAGE value="helm" />
     <MESSAGE value="anno" />
-    <option name="LAST_COMMIT_MESSAGE" value="anno" />
+    <MESSAGE value="hangzhou" />
+    <option name="LAST_COMMIT_MESSAGE" value="hangzhou" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/resource/img/2st-nf.png">
