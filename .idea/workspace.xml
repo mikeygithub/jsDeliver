@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10c256fe-7364-4b70-86fa-16692f5d0e48" name="Default Changelist" comment="">
+    <list default="true" id="10c256fe-7364-4b70-86fa-16692f5d0e48" name="Default Changelist" comment="fix photo format">
+      <change afterPath="$PROJECT_DIR$/resource/photo/4d3abd805e3e78cf1bb95f36b62ec1ba.mp4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/photo/IMG_20201208_165131.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resource/photo/IMG_20201208_165131.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/photo/MTXX_20170505_224028.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resource/photo/MTXX_20170505_224028.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/photo/QQ图片20210303184213.png" beforeDir="false" afterPath="$PROJECT_DIR$/resource/photo/QQ图片20210303184213.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource/photo/WeChat Image_20210311235438.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/resource/photo/WeChat Image_20210311235438.jpg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,18 +16,7 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resource/photo/WeChat Image_20210311235438.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resource/photo/WeChat Image_20210311235520.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,10 +29,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="30" />
-    <option name="y" value="66" />
-    <option name="width" value="1750" />
-    <option name="height" value="789" />
+    <option name="y" value="25" />
+    <option name="width" value="960" />
+    <option name="height" value="1053" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -146,7 +131,10 @@
       <workItem from="1615118881058" duration="13000" />
       <workItem from="1615183445107" duration="626000" />
       <workItem from="1615184839722" duration="17000" />
-      <workItem from="1615477459148" duration="1982000" />
+      <workItem from="1615477459148" duration="3839000" />
+      <workItem from="1615520158756" duration="1489000" />
+      <workItem from="1615555747199" duration="622000" />
+      <workItem from="1615624615928" duration="617000" />
     </task>
     <task id="LOCAL-00001" summary="添加博客模块">
       <created>1613908071318</created>
@@ -407,24 +395,36 @@
       <option name="project" value="LOCAL" />
       <updated>1615478578282</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="fix photo format">
+      <created>1615479747835</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1615479747835</updated>
+    </task>
+    <task id="LOCAL-00039" summary="fix photo format">
+      <created>1615480842752</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1615480842752</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52815000" />
+    <option name="totallyTimeSpent" value="57400000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34317344" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1960991" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -435,8 +435,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49276203" weight="0.56363636" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.507238" side_tool="true" weight="0.56363636" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49276203" weight="0.562635" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.507238" side_tool="true" weight="0.562635" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -476,7 +477,8 @@
     <MESSAGE value="helm" />
     <MESSAGE value="anno" />
     <MESSAGE value="hangzhou" />
-    <option name="LAST_COMMIT_MESSAGE" value="hangzhou" />
+    <MESSAGE value="fix photo format" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix photo format" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/resource/img/2st-nf.png">
@@ -487,11 +489,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml" />
     <entry file="file://$PROJECT_DIR$/package.json" />
+    <entry file="file://$PROJECT_DIR$/resource/photo/QQ图片20210303203439.jpg" />
+    <entry file="file://$PROJECT_DIR$/resource/photo/WeChat Image_20210311235438.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/resource/photo/WeChat Image_20210311235520.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/resource/photo/WeChat Image_20210311235438.jpg">
+    <entry file="file://$PROJECT_DIR$/resource/photo/QQ图片20210302204421.png">
       <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/photo/QQ图片20210306234459.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/photo/QQ图片20210303184213.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/photo/QQ图片20210303203439.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/img/jvm.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
