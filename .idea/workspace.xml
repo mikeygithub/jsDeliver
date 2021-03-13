@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10c256fe-7364-4b70-86fa-16692f5d0e48" name="Default Changelist" comment="fix photo format">
-      <change afterPath="$PROJECT_DIR$/resource/photo/4d3abd805e3e78cf1bb95f36b62ec1ba.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="10c256fe-7364-4b70-86fa-16692f5d0e48" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +131,7 @@
       <workItem from="1615477459148" duration="3839000" />
       <workItem from="1615520158756" duration="1489000" />
       <workItem from="1615555747199" duration="622000" />
-      <workItem from="1615624615928" duration="617000" />
+      <workItem from="1615624615928" duration="1084000" />
     </task>
     <task id="LOCAL-00001" summary="添加博客模块">
       <created>1613908071318</created>
@@ -409,14 +406,22 @@
       <option name="project" value="LOCAL" />
       <updated>1615480842752</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="alibaba">
+      <created>1615625419205</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1615625419205</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57400000" />
+    <option name="totallyTimeSpent" value="57867000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1960991" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -453,7 +458,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="添加博客模块" />
     <MESSAGE value="测试自动发布release" />
     <MESSAGE value="测试自动发布release to" />
     <MESSAGE value="修改目录结构" />
@@ -478,7 +482,8 @@
     <MESSAGE value="anno" />
     <MESSAGE value="hangzhou" />
     <MESSAGE value="fix photo format" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix photo format" />
+    <MESSAGE value="alibaba" />
+    <option name="LAST_COMMIT_MESSAGE" value="alibaba" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/resource/img/2st-nf.png">
