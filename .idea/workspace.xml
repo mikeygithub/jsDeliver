@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10c256fe-7364-4b70-86fa-16692f5d0e48" name="Default Changelist" comment="" />
+    <list default="true" id="10c256fe-7364-4b70-86fa-16692f5d0e48" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +15,7 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resource/photo/WeChat Image_20210327235237.jpg">
           <provider selected="true" editor-type-id="images" />
@@ -153,14 +155,8 @@
       <workItem from="1615997876228" duration="61000" />
       <workItem from="1616078573452" duration="27000" />
       <workItem from="1616859914114" duration="2333000" />
-      <workItem from="1616891431976" duration="5148000" />
-    </task>
-    <task id="LOCAL-00001" summary="添加博客模块">
-      <created>1613908071318</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1613908071318</updated>
+      <workItem from="1616891431976" duration="5180000" />
+      <workItem from="1616906244034" duration="611000" />
     </task>
     <task id="LOCAL-00002" summary="测试自动发布release">
       <created>1613914126463</created>
@@ -498,14 +494,21 @@
       <option name="project" value="LOCAL" />
       <updated>1616896838955</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="cloud">
+      <created>1616906215950</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1616906215950</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67412000" />
+    <option name="totallyTimeSpent" value="68055000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1920" height="1055" extended-state="7" />
+    <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1960991" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -542,7 +545,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="添加音乐" />
     <MESSAGE value="添加音乐-1" />
     <MESSAGE value="添加音乐-2" />
     <MESSAGE value="添加音乐-3" />
@@ -567,7 +569,8 @@
     <MESSAGE value="三数之和" />
     <MESSAGE value="es" />
     <MESSAGE value="kafka" />
-    <option name="LAST_COMMIT_MESSAGE" value="kafka" />
+    <MESSAGE value="cloud" />
+    <option name="LAST_COMMIT_MESSAGE" value="cloud" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/resource/img/2st-nf.png">
@@ -611,6 +614,7 @@
     <entry file="file://$PROJECT_DIR$/resource/img/image-20210318215614354.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/resource/photo/WeChat Image_20210327234617.jpg" />
     <entry file="file://$PROJECT_DIR$/resource/photo/WeChat Image_20210327235237.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -618,9 +622,6 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/resource/photo/WeChat Image_20210311235520.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/photo/WeChat Image_20210327234617.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/resource/photo/WeChat Image_20210311235438.jpg">
