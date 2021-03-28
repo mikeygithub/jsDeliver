@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10c256fe-7364-4b70-86fa-16692f5d0e48" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resource/photo/xiaodun.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resource/music/张宇 - 给你们.mp3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -75,12 +75,6 @@
               <item name="jsDeliver" type="462c0819:PsiDirectoryNode" />
               <item name="resource" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="jsDeliver" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jsDeliver" type="462c0819:PsiDirectoryNode" />
-              <item name="resource" type="462c0819:PsiDirectoryNode" />
-              <item name="photo" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -97,14 +91,15 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/blogs/resource/pdf" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/music" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/resource/photo" />
       <recent name="$PROJECT_DIR$/resource" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/music" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resource/photo" />
+      <recent name="$PROJECT_DIR$/blogs/resource/pdf" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/music" />
     </key>
@@ -161,7 +156,7 @@
       <workItem from="1615997876228" duration="61000" />
       <workItem from="1616078573452" duration="27000" />
       <workItem from="1616859914114" duration="2333000" />
-      <workItem from="1616891431976" duration="2321000" />
+      <workItem from="1616891431976" duration="3909000" />
     </task>
     <task id="LOCAL-00001" summary="添加博客模块">
       <created>1613908071318</created>
@@ -492,11 +487,18 @@
       <option name="project" value="LOCAL" />
       <updated>1616893159358</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="kafka">
+      <created>1616894174741</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1616894174741</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64585000" />
+    <option name="totallyTimeSpent" value="66173000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
@@ -614,10 +616,10 @@
     <entry file="file://$PROJECT_DIR$/resource/photo/WeChat Image_20210311235520.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/resource/photo/WeChat Image_20210311235438.jpg">
+    <entry file="file://$PROJECT_DIR$/resource/photo/WeChat Image_20210327234617.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/resource/photo/WeChat Image_20210327234617.jpg">
+    <entry file="file://$PROJECT_DIR$/resource/photo/WeChat Image_20210311235438.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
