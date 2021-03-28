@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10c256fe-7364-4b70-86fa-16692f5d0e48" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resource/photo/xiaodun.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,8 +27,13 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resource/photo/WeChat Image_20210311235520.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resource/photo/WeChat Image_20210327234617.jpg">
+        <entry file="file://$PROJECT_DIR$/resource/photo/WeChat Image_20210311235438.jpg">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
@@ -155,7 +161,7 @@
       <workItem from="1615997876228" duration="61000" />
       <workItem from="1616078573452" duration="27000" />
       <workItem from="1616859914114" duration="2333000" />
-      <workItem from="1616891431976" duration="1245000" />
+      <workItem from="1616891431976" duration="2321000" />
     </task>
     <task id="LOCAL-00001" summary="添加博客模块">
       <created>1613908071318</created>
@@ -479,15 +485,21 @@
       <option name="project" value="LOCAL" />
       <updated>1616862006171</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="kafka">
+      <created>1616893159358</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1616893159358</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63509000" />
+    <option name="totallyTimeSpent" value="64585000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1960991" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -561,12 +573,6 @@
     <entry file="file://$PROJECT_DIR$/.travis.yml" />
     <entry file="file://$PROJECT_DIR$/package.json" />
     <entry file="file://$PROJECT_DIR$/resource/photo/QQ图片20210303203439.jpg" />
-    <entry file="file://$PROJECT_DIR$/resource/photo/WeChat Image_20210311235438.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource/photo/WeChat Image_20210311235520.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/resource/photo/QQ图片20210302204421.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -603,6 +609,12 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/resource/photo/WeChat Image_20210327234952.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/photo/WeChat Image_20210311235520.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/photo/WeChat Image_20210311235438.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/resource/photo/WeChat Image_20210327234617.jpg">
