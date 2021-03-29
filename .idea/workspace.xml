@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10c256fe-7364-4b70-86fa-16692f5d0e48" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resource/img/QQ图片20210329230950.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/img/WeChat Image_20210329225917.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/img/aaa.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/img/image-20210329232408817.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/img/img.jk51.com&amp;app=2002&amp;size=f9999,10000&amp;q=a80&amp;n=0&amp;g=0n&amp;fmt=jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/img/u=2093565416,3902274772&amp;fm=26&amp;gp=0.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resource/img/WeChat Image_20210329225917.png" beforeDir="false" afterPath="$PROJECT_DIR$/resource/img/WeChatImage_20210329225917.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +16,13 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resource/img/WeChatImage_20210329225917.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -57,6 +58,12 @@
               <item name="jsDeliver" type="b2602c69:ProjectViewProjectNode" />
               <item name="jsDeliver" type="462c0819:PsiDirectoryNode" />
               <item name="resource" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jsDeliver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsDeliver" type="462c0819:PsiDirectoryNode" />
+              <item name="resource" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -142,21 +149,7 @@
       <workItem from="1616859914114" duration="2333000" />
       <workItem from="1616891431976" duration="5180000" />
       <workItem from="1616906244034" duration="3497000" />
-      <workItem from="1617024551315" duration="603000" />
-    </task>
-    <task id="LOCAL-00004" summary="测试自动发布release to">
-      <created>1613922216602</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1613922216602</updated>
-    </task>
-    <task id="LOCAL-00005" summary="修改目录结构">
-      <created>1613924898261</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1613924898261</updated>
+      <workItem from="1617024551315" duration="1176000" />
     </task>
     <task id="LOCAL-00006" summary="修改目录结构">
       <created>1614066410706</created>
@@ -487,14 +480,29 @@
       <option name="project" value="LOCAL" />
       <updated>1616921924061</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="xml">
+      <created>1617033808694</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1617033808695</updated>
+    </task>
+    <task id="LOCAL-00054" summary="xml">
+      <created>1617034050631</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1617034050631</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71544000" />
+    <option name="totallyTimeSpent" value="72117000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1960991" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -531,7 +539,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="添加音乐-1" />
     <MESSAGE value="添加音乐-2" />
     <MESSAGE value="添加音乐-3" />
     <MESSAGE value="添加音乐-4" />
@@ -556,7 +563,8 @@
     <MESSAGE value="es" />
     <MESSAGE value="kafka" />
     <MESSAGE value="cloud" />
-    <option name="LAST_COMMIT_MESSAGE" value="cloud" />
+    <MESSAGE value="xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="xml" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/resource/img/2st-nf.png">
@@ -611,6 +619,9 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/resource/photo/WeChat Image_20210327235237.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource/img/WeChatImage_20210329225917.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
