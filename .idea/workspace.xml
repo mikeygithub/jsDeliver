@@ -13,13 +13,7 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resource/img/WeChatImage_20210329225917.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -32,9 +26,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="960" />
     <option name="y" value="25" />
     <option name="width" value="960" />
-    <option name="height" value="1053" />
+    <option name="height" value="1055" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -55,6 +50,12 @@
               <item name="jsDeliver" type="b2602c69:ProjectViewProjectNode" />
               <item name="jsDeliver" type="462c0819:PsiDirectoryNode" />
               <item name="resource" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jsDeliver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsDeliver" type="462c0819:PsiDirectoryNode" />
+              <item name="resource" type="462c0819:PsiDirectoryNode" />
+              <item name="music" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -141,13 +142,7 @@
       <workItem from="1616891431976" duration="5180000" />
       <workItem from="1616906244034" duration="3497000" />
       <workItem from="1617024551315" duration="1981000" />
-    </task>
-    <task id="LOCAL-00007" summary="添加音乐">
-      <created>1614084671119</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1614084671119</updated>
+      <workItem from="1617111546220" duration="772000" />
     </task>
     <task id="LOCAL-00008" summary="添加音乐-1">
       <created>1614087028069</created>
@@ -485,16 +480,24 @@
       <option name="project" value="LOCAL" />
       <updated>1617034376764</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="xml">
+      <created>1617111715208</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1617111715208</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72922000" />
+    <option name="totallyTimeSpent" value="73694000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
+    <frame x="0" y="25" width="1920" height="1055" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1960991" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1960991" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -511,7 +514,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49276203" visible="true" weight="0.22030237" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49276203" visible="true" weight="0.22030237" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.507238" side_tool="true" weight="0.5635776" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
