@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="10c256fe-7364-4b70-86fa-16692f5d0e48" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resource/img/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/resource/img/favicon.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,15 +71,16 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resource/img" />
       <recent name="$PROJECT_DIR$/resource/photo" />
-      <recent name="$PROJECT_DIR$/resource" />
+      <recent name="$PROJECT_DIR$/blogs/resource/pdf" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/music" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/resource/photo" />
-      <recent name="$PROJECT_DIR$/blogs/resource/pdf" />
+      <recent name="$PROJECT_DIR$/resource" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/music" />
     </key>
@@ -141,13 +143,8 @@
       <workItem from="1617111546220" duration="1836000" />
       <workItem from="1617200895744" duration="599000" />
       <workItem from="1617292845121" duration="609000" />
-    </task>
-    <task id="LOCAL-00010" summary="添加音乐-2">
-      <created>1614093375337</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1614093375337</updated>
+      <workItem from="1617373328059" duration="762000" />
+      <workItem from="1617415463588" duration="1269000" />
     </task>
     <task id="LOCAL-00011" summary="添加音乐-3">
       <created>1614094042560</created>
@@ -485,16 +482,23 @@
       <option name="project" value="LOCAL" />
       <updated>1617117004635</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="zk">
+      <created>1617373465485</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1617373465489</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75966000" />
+    <option name="totallyTimeSpent" value="77997000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1960991" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1960991" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -511,7 +515,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49276203" visible="true" weight="0.22030237" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49276203" visible="true" weight="0.22030237" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.507238" side_tool="true" weight="0.5635776" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -529,7 +533,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="添加音乐-2" />
     <MESSAGE value="添加音乐-3" />
     <MESSAGE value="添加音乐-4" />
     <MESSAGE value="添加音乐-5" />
@@ -554,7 +557,8 @@
     <MESSAGE value="kafka" />
     <MESSAGE value="cloud" />
     <MESSAGE value="xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="xml" />
+    <MESSAGE value="zk" />
+    <option name="LAST_COMMIT_MESSAGE" value="zk" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/resource/img/2st-nf.png">
@@ -615,6 +619,9 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/xml.patch" />
+    <entry file="file://$PROJECT_DIR$/resource/img/favicon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
