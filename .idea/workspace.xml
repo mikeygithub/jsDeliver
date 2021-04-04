@@ -13,13 +13,7 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resource/img/favicon.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -152,14 +146,7 @@
       <workItem from="1617200895744" duration="599000" />
       <workItem from="1617292845121" duration="609000" />
       <workItem from="1617373328059" duration="762000" />
-      <workItem from="1617415463588" duration="5505000" />
-    </task>
-    <task id="LOCAL-00014" summary="添加音乐-6">
-      <created>1614095278411</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1614095278411</updated>
+      <workItem from="1617415463588" duration="6271000" />
     </task>
     <task id="LOCAL-00015" summary="完成添加音乐">
       <created>1614099390426</created>
@@ -497,15 +484,21 @@
       <option name="project" value="LOCAL" />
       <updated>1617423726573</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="xihu">
+      <created>1617540979831</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1617540979831</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82233000" />
+    <option name="totallyTimeSpent" value="82999000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="25" width="1920" height="1055" extended-state="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1960991" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -568,7 +561,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="添加音乐-5" />
     <MESSAGE value="添加音乐-6" />
     <MESSAGE value="完成添加音乐" />
     <MESSAGE value="add link images" />
@@ -593,7 +585,8 @@
     <MESSAGE value="zk" />
     <MESSAGE value="logo" />
     <MESSAGE value="logo-m" />
-    <option name="LAST_COMMIT_MESSAGE" value="logo-m" />
+    <MESSAGE value="xihu" />
+    <option name="LAST_COMMIT_MESSAGE" value="xihu" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/resource/img/2st-nf.png">
