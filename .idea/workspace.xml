@@ -59,6 +59,12 @@
               <item name="jsDeliver" type="462c0819:PsiDirectoryNode" />
               <item name="resource" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="jsDeliver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jsDeliver" type="462c0819:PsiDirectoryNode" />
+              <item name="resource" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -149,14 +155,8 @@
       <workItem from="1617292845121" duration="609000" />
       <workItem from="1617373328059" duration="762000" />
       <workItem from="1617415463588" duration="6880000" />
-      <workItem from="1617800968231" duration="599000" />
-    </task>
-    <task id="LOCAL-00016" summary="add link images">
-      <created>1614141715968</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1614141715968</updated>
+      <workItem from="1617800968231" duration="738000" />
+      <workItem from="1617977216775" duration="1625000" />
     </task>
     <task id="LOCAL-00017" summary="add link images">
       <created>1614182265589</created>
@@ -494,15 +494,21 @@
       <option name="project" value="LOCAL" />
       <updated>1617543102000</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="shell">
+      <created>1617812145429</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1617812145429</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84207000" />
+    <option name="totallyTimeSpent" value="85971000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1960991" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -579,7 +585,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="添加音乐-6" />
     <MESSAGE value="完成添加音乐" />
     <MESSAGE value="add link images" />
     <MESSAGE value="add link jvm images" />
@@ -604,7 +609,8 @@
     <MESSAGE value="logo" />
     <MESSAGE value="logo-m" />
     <MESSAGE value="xihu" />
-    <option name="LAST_COMMIT_MESSAGE" value="xihu" />
+    <MESSAGE value="shell" />
+    <option name="LAST_COMMIT_MESSAGE" value="shell" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/resource/img/2st-nf.png">
