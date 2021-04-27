@@ -60,7 +60,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -77,6 +76,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -166,14 +166,13 @@
       <workItem from="1617800968231" duration="738000" />
       <workItem from="1617977216775" duration="2524000" />
       <workItem from="1618108736767" duration="152000" />
-      <workItem from="1618156936659" duration="319000" />
-    </task>
-    <task id="LOCAL-00019" summary="add link os">
-      <created>1614321034403</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1614321034403</updated>
+      <workItem from="1618156936659" duration="445000" />
+      <workItem from="1618236002871" duration="599000" />
+      <workItem from="1618315968225" duration="1199000" />
+      <workItem from="1618575864226" duration="821000" />
+      <workItem from="1618619796982" duration="642000" />
+      <workItem from="1618724327077" duration="1159000" />
+      <workItem from="1618738582519" duration="106000" />
     </task>
     <task id="LOCAL-00020" summary="add link os">
       <created>1614328511296</created>
@@ -511,17 +510,24 @@
       <option name="project" value="LOCAL" />
       <updated>1618108754509</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="groovy">
+      <created>1618157301397</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1618157301399</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87341000" />
+    <option name="totallyTimeSpent" value="91993000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1960991" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1960991" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -536,7 +542,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32937366" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32937366" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49276203" weight="0.22030237" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.507238" side_tool="true" weight="0.5635776" />
