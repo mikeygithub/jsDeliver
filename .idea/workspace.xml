@@ -13,7 +13,7 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -180,13 +180,7 @@
       <workItem from="1620099700690" duration="248000" />
       <workItem from="1620134161957" duration="632000" />
       <workItem from="1620136417503" duration="904000" />
-    </task>
-    <task id="LOCAL-00025" summary="code">
-      <created>1614481977748</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1614481977748</updated>
+      <workItem from="1620553146142" duration="651000" />
     </task>
     <task id="LOCAL-00026" summary="code">
       <created>1614505481743</created>
@@ -524,17 +518,23 @@
       <option name="project" value="LOCAL" />
       <updated>1620145055832</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="wechat">
+      <created>1620553165860</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1620553165861</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96112000" />
+    <option name="totallyTimeSpent" value="96763000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21344717" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21558164" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
