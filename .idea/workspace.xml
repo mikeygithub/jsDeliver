@@ -180,14 +180,7 @@
       <workItem from="1620099700690" duration="248000" />
       <workItem from="1620134161957" duration="632000" />
       <workItem from="1620136417503" duration="904000" />
-      <workItem from="1620553146142" duration="651000" />
-    </task>
-    <task id="LOCAL-00026" summary="code">
-      <created>1614505481743</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1614505481743</updated>
+      <workItem from="1620553146142" duration="964000" />
     </task>
     <task id="LOCAL-00027" summary="k8s">
       <created>1614618675929</created>
@@ -525,11 +518,18 @@
       <option name="project" value="LOCAL" />
       <updated>1620553165861</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="wechat">
+      <created>1620555440571</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1620555440571</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96763000" />
+    <option name="totallyTimeSpent" value="97076000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
